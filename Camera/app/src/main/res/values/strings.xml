@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="image_default_savepath">默认存储位置:/sdcard/DCIM/Plants</string>
+    <string name="not_support_error">Not Support!</string>
+    <string name="ok">OK</string>
+    <string name="ablum">保存</string>
+    <string name="shot">拍照</string>
+    <string name="scan">扫描</string>
+    <string name="permission_denied">请求被拒</string>
+    <string name="request_permission">需要允许</string>
+    <string name="file_name">保存文件名:</string>
+</resources>

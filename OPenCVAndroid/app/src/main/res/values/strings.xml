@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">OpenCV</string>
-    <string name="title_gray">灰度化</string>
-    <string name="title_rgb">RGB</string>
-    <string name="title_canny">Canny</string>
-    <string name="title_exit">退出</string>
-</resources>
